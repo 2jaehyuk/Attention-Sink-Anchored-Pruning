@@ -1,4 +1,4 @@
-# ASAP-Attention-Sink-Anchored-Pruning
+# ASAP: Attention-Sink-Anchored-Pruning
 
 Official implementation of **ASAP: Attention Sink Anchored Pruning** (NeurIPS 2026).
 
